@@ -62,6 +62,9 @@ minikube service web-service
 Repositorios Publicos
 
 `
-https://github.com/Tomas-UNC/static-website/tree/master
-
+https://github.com/Tomas-UNC/static-website
+https://github.com/Tomas-UNC/k8s-manifests
 `
+
+Tomas Beltran
+Desarrollo de Software ITU
